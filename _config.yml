@@ -1,12 +1,15 @@
-# Site settings
 title: 3lvis.net blog
 email: elvisnunez@me.com
 description: >
   This is a blog about technology, cooking, design, photography and more.
 baseurl: ""
 url: "http://3lvis.net"
+avatar: http://s.gravatar.com/avatar/50a95dbddde877a2bd7bb5eb103adaea?s=80
 twitter_username: 3lvis
 github_username:  3lvis
-
-# Build settings
 markdown: kramdown
+gems:
+- jekyll-mentions
+- jemoji
+- jekyll-redirect-from
+- jekyll-sitemap
