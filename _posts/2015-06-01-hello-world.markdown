@@ -5,7 +5,7 @@ date:   2015-06-01 00:49:24
 categories: general journal
 ---
 
-After following [Ash Furrow's](https://twitter.com/ashfurrow) talk on Teaching and Learning I decided to try again this blogging thing. I think it's pretty important to not feel that something is to simple or too silly.
+Following [Ash Furrow's](https://twitter.com/ashfurrow) talk on Teaching and Learning I decided to try again this blogging thing. I think it's pretty important to not feel that something is to simple or too silly.
 
 You can find the slides of his talk here:
 
