@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Hello World"
-date:   2015-06-01 00:49:24
+title: Hello World
+date: {}
 categories: general journal
+published: true
 ---
+
 
 Following [Ash Furrow's](https://twitter.com/ashfurrow) talk on Teaching and Learning I decided to try again this blogging thing. I think it's pretty important to not feel that something is to simple or too silly.
 
