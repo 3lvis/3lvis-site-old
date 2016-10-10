@@ -2,7 +2,7 @@ title: 3lvis.net blog
 email: elvisnunez@me.com
 description: >
   This is a blog about technology, cooking, design, photography and more.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: ""
 url: "http://3lvis.net"
 twitter_username: 3lvis
 github_username:  3lvis
